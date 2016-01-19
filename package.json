@@ -1,0 +1,28 @@
+{
+  "name": "browser-perf-json",
+  "version": "1.0.0",
+  "description": "Run browser-perf and return JSON",
+  "main": "index.js",
+  "bin": {
+    "browser-perf-json": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developit/browser-perf-json.git"
+  },
+  "keywords": [
+    "browser",
+    "perf",
+    "json"
+  ],
+  "author": "Jason Miller <jason@developit.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developit/browser-perf-json/issues"
+  },
+  "homepage": "https://github.com/developit/browser-perf-json",
+  "dependencies": {
+    "browser-perf": "^1.4.4",
+    "yargs": "^3.32.0"
+  }
+}
