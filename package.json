@@ -23,6 +23,6 @@
   "homepage": "https://github.com/developit/browser-perf-json",
   "dependencies": {
     "browser-perf": "^1.4.4",
-    "yargs": "^3.32.0"
+    "yargs": "^8.0.1"
   }
 }
